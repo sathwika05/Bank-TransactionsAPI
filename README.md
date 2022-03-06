@@ -6,6 +6,10 @@ Steps to run the application:
 2. Open the terminal navigate to the docker-compose.yml file in the project directory.
 3. Run docker-compose up
 
+Application Documentation: https://documenter.getpostman.com/view/19885819/UVkvJsNJ
+
+
+
 
 
 
