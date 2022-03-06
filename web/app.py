@@ -160,7 +160,9 @@ class Balance(Resource):
         "Username":username
         },{
         "Password":0,
-        "_id":0
+        "_id":0,
+        "Fullname":0,
+        "Phoneno":0
         })[0]
         return jsonify(retJson)
 
